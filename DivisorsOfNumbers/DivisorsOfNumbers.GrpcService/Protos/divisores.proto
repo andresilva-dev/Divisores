@@ -1,0 +1,19 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "DivisorsOfNumbers.GrpcService";
+
+package divisores;
+
+service Divisores{
+	rpc ObtenhaDivisores (Number) returns(Retorno);
+}
+
+message Number{
+	int32 Numero = 1;
+}
+
+message Retorno{
+	int32 Numero = 1;
+	repeated int32 Divisores = 2;
+	repeated int32 DivisoresPrimos = 3;
+}

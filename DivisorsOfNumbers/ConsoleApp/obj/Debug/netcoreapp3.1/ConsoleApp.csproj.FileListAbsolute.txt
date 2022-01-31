@@ -1,0 +1,17 @@
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.dll
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\bin\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.pdb
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Projetos\DivisorsOfNumbers\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

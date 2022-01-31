@@ -1,0 +1,10 @@
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\bin\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.deps.json
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\bin\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.dll
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\bin\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.pdb
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\obj\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\obj\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.AssemblyInfoInputs.cache
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\obj\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.AssemblyInfo.cs
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\obj\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.csproj.CoreCompileInputs.cache
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\obj\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.dll
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\obj\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.pdb
+D:\Projetos\DivisorsOfNumbers\DivisorsOfNumbers.Negocio\obj\Debug\netcoreapp3.1\DivisorsOfNumbers.Negocio.csproj.AssemblyReference.cache

@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/Divisores.cs \
+obj\Debug\netcoreapp3.1\Protos/DivisoresGrpc.cs: Protos/divisores.proto
