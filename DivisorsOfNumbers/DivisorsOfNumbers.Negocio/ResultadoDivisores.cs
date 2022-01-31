@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DivisorsOfNumbers.Negocio
 {
-    public class ResultadoDivisores
+    public class ResultadoDivisores : IResultadoDivisores
     {
         private int _numero;
         private HashSet<int> _divisores;
@@ -30,7 +30,7 @@ namespace DivisorsOfNumbers.Negocio
             get
             {
                 if (_divisoresPrimos == null)
-                    _divisoresPrimos = _divisores.Where(a => a.EhNumeroPrimo()).Select(n => n).ToHashSet();
+                    _divisoresPrimos = _divisores.Where(a => a.EhPrimo()).Select(n => n).ToHashSet();
 
                 return _divisoresPrimos;
             }

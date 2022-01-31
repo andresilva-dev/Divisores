@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
+      "projectUniqueName": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
       "projectName": "DivisorsOfNumbers.Negocio",
-      "projectPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
+      "projectPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
       "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\obj\\",
+      "outputPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

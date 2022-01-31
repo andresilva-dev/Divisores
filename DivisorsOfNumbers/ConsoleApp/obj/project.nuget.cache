@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kCYHaszwCn8ZLazEvAYawjbPBKBoAXfR641rgLlV89vGXL5jxkGz2ilfWCIzxAwTrLQzPVF8+IbRYK+EjO2jSA==",
+  "dgSpecHash": "+QuKbXMPgEjE9/IYKjjPH0z1wdpmNehp2uwI5orYdhICkoGosna9GbdNRjgmAC3MPvTN8OD18Rj0eCzhfQpnvQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\DivisorsOfNumbers\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

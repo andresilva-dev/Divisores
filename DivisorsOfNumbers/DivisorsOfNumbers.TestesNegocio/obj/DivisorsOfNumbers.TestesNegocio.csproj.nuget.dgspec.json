@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj": {}
+    "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj": {
+    "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
+        "projectUniqueName": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
         "projectName": "DivisorsOfNumbers.Negocio",
-        "projectPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
+        "projectPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
         "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\obj\\",
+        "outputPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj": {
+    "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj",
+        "projectUniqueName": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj",
         "projectName": "DivisorsOfNumbers.TestesNegocio",
-        "projectPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj",
+        "projectPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\DivisorsOfNumbers.TestesNegocio.csproj",
         "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\obj\\",
+        "outputPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.TestesNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj": {
-                "projectPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj"
+              "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj": {
+                "projectPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj"
               }
             }
           }

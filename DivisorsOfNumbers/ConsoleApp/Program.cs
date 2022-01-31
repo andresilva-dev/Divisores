@@ -12,8 +12,8 @@ namespace ConsoleApp
 
             Int32.TryParse(valor, out var valorInteiro);
 
-            ObtensorDeDivisores obtensor = new ObtensorDeDivisores();
-            var resultado = obtensor.ObtenhaDivisores(valorInteiro);
+            IObtensorDeDivisores obtensor = new ObtensorDeDivisores();
+            IResultadoDivisores resultado = obtensor.ObtenhaDivisores(valorInteiro);
 
             Console.WriteLine($"O número informado foi: {resultado.Numero}");
             Console.WriteLine($"Números divisores: {string.Join(", ", resultado.Divisores)}");

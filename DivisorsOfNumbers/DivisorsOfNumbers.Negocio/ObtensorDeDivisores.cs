@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace DivisorsOfNumbers.Negocio
 {
-    public class ObtensorDeDivisores
+    public class ObtensorDeDivisores : IObtensorDeDivisores
     {
-        public ResultadoDivisores ObtenhaDivisores(int numero)
+        public IResultadoDivisores ObtenhaDivisores(int numero)
         {
             if (numero <= 0)
             {

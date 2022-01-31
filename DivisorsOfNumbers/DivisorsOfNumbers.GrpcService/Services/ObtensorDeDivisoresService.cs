@@ -9,16 +9,10 @@ namespace DivisorsOfNumbers.GrpcService
 {
     public class ObtensorDeDivisoresService : Divisores.DivisoresBase
     {
-        private readonly ILogger<ObtensorDeDivisoresService> _logger;
-        public ObtensorDeDivisoresService(ILogger<ObtensorDeDivisoresService> logger)
-        {
-            _logger = logger;
-        }
-
         public override Task<Retorno> ObtenhaDivisores(Number request, ServerCallContext context)
         {
-            ObtensorDeDivisores obtensor = new ObtensorDeDivisores();
-            ResultadoDivisores resultado = obtensor.ObtenhaDivisores(request.Numero);
+            IObtensorDeDivisores obtensor = new ObtensorDeDivisores();
+            IResultadoDivisores resultado = obtensor.ObtenhaDivisores(request.Numero);
             Retorno retorno = new Retorno() {
                 Numero = resultado.Numero,
             };

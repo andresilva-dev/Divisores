@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj": {}
+    "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj": {
+    "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj",
+        "projectUniqueName": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj",
         "projectName": "ConsoleAppGrpcClient",
-        "projectPath": "D:\\Projetos\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj",
+        "projectPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\ConsoleAppGrpcClient.csproj",
         "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\obj\\",
+        "outputPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\ConsoleAppGrpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

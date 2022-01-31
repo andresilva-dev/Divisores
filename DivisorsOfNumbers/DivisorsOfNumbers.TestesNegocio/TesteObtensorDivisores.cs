@@ -7,7 +7,7 @@ namespace DivisorsOfNumbers.TestesNegocio
 {
     public class TesteObtensorDivisores
     {
-        ObtensorDeDivisores _obtensor;
+        IObtensorDeDivisores _obtensor;
 
         [SetUp]
         public void Setup()

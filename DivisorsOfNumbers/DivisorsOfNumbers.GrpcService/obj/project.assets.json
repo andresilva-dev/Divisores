@@ -716,11 +716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.GrpcService\\DivisorsOfNumbers.GrpcService.csproj",
+      "projectUniqueName": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.GrpcService\\DivisorsOfNumbers.GrpcService.csproj",
       "projectName": "DivisorsOfNumbers.GrpcService",
-      "projectPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.GrpcService\\DivisorsOfNumbers.GrpcService.csproj",
+      "projectPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.GrpcService\\DivisorsOfNumbers.GrpcService.csproj",
       "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.GrpcService\\obj\\",
+      "outputPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.GrpcService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -742,8 +742,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj": {
-              "projectPath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj"
+            "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj": {
+              "projectPath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj"
             }
           }
         }

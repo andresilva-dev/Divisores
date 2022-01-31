@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RUmHa59nYovPy0b01K3EtJg6jHxwcpUHw28FwZ9/BJOHqufeQwBmJYgDB8PF9fbp09UyaEOGBpSWE9PEEe/vvw==",
+  "dgSpecHash": "o4m9P0crXdND3YHNYjLpGQ3dz1CN9uR8rERpGq5JnJKjXxtvm2//39fqbruGIikf18Aia4W3o4Hfwz/GwJZI6w==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
+  "projectFilePath": "D:\\Projetos\\Divisores\\DivisorsOfNumbers\\DivisorsOfNumbers.Negocio\\DivisorsOfNumbers.Negocio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

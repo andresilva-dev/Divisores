@@ -12,7 +12,7 @@ namespace DivisorsOfNumbers.Negocio
             return resto != 0;
         }
 
-        public static bool EhNumeroPrimo(this int numero)
+        public static bool EhPrimo(this int numero)
         {
             int cont = 0;
             for (int i = 1; i <= numero; i += 1)
